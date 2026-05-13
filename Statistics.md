@@ -62,6 +62,7 @@ $$\begin{aligned}
 &= \frac{13}{4} \\
 &= 3.25
 \end{aligned}$$
+
 > Finding mean gives the accurate midpoint of the give data when the ourliers is low
 
 
