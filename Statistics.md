@@ -56,14 +56,12 @@ $$\mu = \frac{\sum_{i=1}^{n} x_i}{n}$$
 ***Example***
 
 **1.Mean**
-$$
-\begin{aligned}
+$$\begin{aligned}
 \mu &= \frac{\sum_{i=1}^{4} x_i}{4} \\
 &= \frac{1 + 3 + 4 + 5}{4} \\
 &= \frac{13}{4} \\
 &= 3.25
-\end{aligned}
-$$
+\end{aligned}$$
 > Finding mean gives the accurate midpoint of the give data when the ourliers is low
 
 
